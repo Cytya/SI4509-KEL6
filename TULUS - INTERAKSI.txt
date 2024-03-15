@@ -39,6 +39,7 @@ Atau mendekatlah, ah
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 0
 =======
 2.000.000
@@ -49,6 +50,9 @@ Atau mendekatlah, ah
 =======
 3
 >>>>>>> 21fc920c469e437cb62cce18350a8366ce75c465
+=======
+1234509876
+>>>>>>> 1464195 (case 2 - nopal)
 
 >>>>>>> 3569f0e411fbbd0a075b484bde5dd1ef7c99fe84
 =======
