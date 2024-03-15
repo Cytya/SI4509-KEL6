@@ -38,7 +38,11 @@ Tolong, reda dan redalah
 Atau mendekatlah, ah
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 0
+=======
+2.000.000
+>>>>>>> 6f2bd0d96452404b33041b0f577b6a959deb18e6
 =======
 <<<<<<< HEAD
 7
