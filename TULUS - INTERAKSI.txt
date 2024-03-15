@@ -37,7 +37,16 @@ Dan jika dia memang bukan untukku
 Tolong, reda dan redalah
 Atau mendekatlah, ah
 <<<<<<< HEAD
+<<<<<<< HEAD
 0
+=======
+<<<<<<< HEAD
+7
+=======
+3
+>>>>>>> 21fc920c469e437cb62cce18350a8366ce75c465
+
+>>>>>>> 3569f0e411fbbd0a075b484bde5dd1ef7c99fe84
 =======
 bebassss
 >>>>>>> c6efbc385d6911125aeb0fb5e9112364659572f9
