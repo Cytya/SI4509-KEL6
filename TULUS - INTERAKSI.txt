@@ -35,6 +35,7 @@ Jika dia memang bisa untukku
 Sini, dekat dan dekatlah
 Dan jika dia memang bukan untukku
 Tolong, reda dan redalah
+<<<<<<< HEAD
 Atau mendekatlah, ah
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -61,3 +62,7 @@ Atau mendekatlah, ah
 =======
 bebassss
 >>>>>>> c6efbc385d6911125aeb0fb5e9112364659572f9
+=======
+Atau mendekatlah, ah 
+1
+>>>>>>> eb8834a (commitcase2)
