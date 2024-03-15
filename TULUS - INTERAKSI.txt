@@ -36,5 +36,9 @@ Sini, dekat dan dekatlah
 Dan jika dia memang bukan untukku
 Tolong, reda dan redalah
 Atau mendekatlah, ah
+<<<<<<< HEAD
 7
 
+=======
+bebassss
+>>>>>>> c6efbc385d6911125aeb0fb5e9112364659572f9
